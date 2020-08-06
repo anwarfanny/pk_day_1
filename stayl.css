@@ -5,4 +5,5 @@ h1 {
 }
 h2 {color: rgb(220, 190, 20);
     font-size: larger;
+    background-color: currentColor; color: rgb(0, 139, 23);
 }
